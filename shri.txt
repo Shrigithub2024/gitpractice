@@ -1,0 +1,5 @@
+this is file inside master branch
+trying to merch the branches
+which keeps all files 
+in one 
+folder
